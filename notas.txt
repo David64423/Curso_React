@@ -1,0 +1,25 @@
+React Información:
+    Es una librería para crear interfaces de usuario, tanto para páginas web como para aplicaciones
+    moviles.
+
+
+
+Seccion de Estructura:
+
+    Src: Es la carpeta mas importante, donde colocamos todo el codigo, es decir donde 
+    crearemos archivos y desarrollaremos. No solamente hay codigo de lógica, sino que también,
+    hay archivos Css e imagenes.
+    Public: Los archivos staticos HTML. Aparte tenemos logotipos y otras cosas.
+    package.lock.json: Es para seguimiento de los modulos instalados. No importa mucho para el desa-
+    rrollador
+
+    En react lo importante es crear pàgias unicamente con JavaScript.
+
+Seccion el primer Hola Mundo:
+
+    Componente: Es una función que devuelve una porción de codigo que yo puedo reutilizar cuantas veces yo
+    quiera. 
+    f1 y escribir "format document"
+
+
+
